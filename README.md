@@ -1,1 +1,1 @@
-[![Build status](http://localhost/api/projects/status/s1cy9nqwf7j1r3pw?svg=true)](http://localhost/project/AppVeyor/hw2)
+[![Build status](https://ci.appveyor.com/api/projects/status/fd86nqpwrhdpv0qg?svg=true)](https://ci.appveyor.com/project/Dyubo/homework2)
